@@ -48,7 +48,7 @@ ___
 <br>
 
 
-### "Oi, amante do relaxamento! 🌿✨ Seja bem-vindo ao 'Refúgio Code Spa', onde cada linha de código constrói a experiência única do seu spa digital! Se curtiu, dê um [`Follow`](https://github.com/Rodolfo-Sampaio) e vamos criar juntos esse oásis de tranquilidade! 🚀💆‍♂️ #CodeSpaStudio"
+#### Obrigado por visitar meu Git. Se você der um [`Follow`](https://github.com/Rodolfo-Sampaio), ficarei feliz em retribuir!🚀💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFAF0&height=100&section=footer" alt="Waving Capsule Render">
 
